@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "name": "Melissa Stewart",
+    "image": "https://img.icons8.com/material-outlined/64/000000/employee-card.png",
+    "department": "Software Development",
+    "title": "Senior Full Stack Developer"
+  },
+  {
+    "id": 2,
+    "name": "Marsha Anderson",
+    "image": "https://img.icons8.com/material-outlined/64/000000/employee-card.png",
+    "department": "Software Development",
+    "title": "Front End Developer"
+  },
+  {
+    "id": 3,
+    "name": "Jacob Harris",
+    "image": "https://img.icons8.com/material-outlined/64/000000/employee-card.png",
+    "department": "Software Development",
+    "title": "Back End Developer"
+  },
+  {
+    "id": 4,
+    "name": "Kate Wilson",
+    "image": "https://img.icons8.com/material-outlined/64/000000/employee-card.png",
+    "department": "Accounting",
+    "title": "Accounting Manager"
+  },
+  {
+    "id": 5,
+    "name": "Josh Robinson",
+    "image": "https://img.icons8.com/material-outlined/64/000000/employee-card.png",
+    "department": "Accounting",
+    "title": "Accounting Assistant"
+  },
+  {
+    "id": 6,
+    "name": "Rick Brown",
+    "image": "https://img.icons8.com/material-outlined/64/000000/employee-card.png",
+    "department": "Accounting",
+    "title": "Budget Analyst"
+  },
+  {
+    "id": 7,
+    "name": "Brooklyn Jones",
+    "image": "https://img.icons8.com/material-outlined/64/000000/employee-card.png",
+    "department": "Marketing",
+    "title": "Marketing Director"
+  },
+  {
+    "id": 8,
+    "name": "Grace Miller",
+    "image": "https://img.icons8.com/material-outlined/64/000000/employee-card.png",
+    "department": "Marketing",
+    "title": "Marketing Analyst"
+  },
+  {
+    "id": 9,
+    "name": "Lily Davis",
+    "image": "https://img.icons8.com/material-outlined/64/000000/employee-card.png",
+    "department": "Human Resource",
+    "title": "Human Resource Manager"
+  },
+  {
+    "id": 10,
+    "name": "Ava Jones",
+    "image": "https://img.icons8.com/material-outlined/64/000000/employee-card.png",
+    "department": "Human Resource",
+    "title": "Administrative Assistant"
+  },
+  {
+    "id": 11,
+    "name": "Zoe Smith",
+    "image": "https://img.icons8.com/material-outlined/64/000000/employee-card.png",
+    "department": "Software Development",
+    "title": "Front End Developer"
+  },
+  {
+    "id": 12,
+    "name": "Allison Wills",
+    "image": "https://img.icons8.com/material-outlined/64/000000/employee-card.png",
+    "department": "Software Development",
+    "title": "Back End Developer"
+  }
+]
+
+
+
